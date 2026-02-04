@@ -23,8 +23,6 @@ I am preparing for the **Global Korea Scholarship (GKS)** and building projects 
 - [Python calculator](https://github.com/janatehab8-ai/python-basics) (coming soon)  
 - [Number guessing game](https://github.com/janatehab8-ai/python-basics) (coming soon)  
 
-*(Each project links to its GitHub repo)*
-
 ---
 
 ## 🏆 Certificates
@@ -35,4 +33,4 @@ I am preparing for the **Global Korea Scholarship (GKS)** and building projects 
 
 ## 📫 Contact
 - GitHub: [janatehab8-ai](https://github.com/janatehab8-ai)  
-- Email: *(add if you want)*
+- Email: janatehab8@gmail.com 
